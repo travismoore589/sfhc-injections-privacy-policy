@@ -1,38 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Privacy Policy – SFHC Injections</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 0 20px;
-      color: #1f2937;
-    }
-    h1, h2, h3 {
-      color: #111827;
-    }
-    h1 {
-      border-bottom: 2px solid #e5e7eb;
-      padding-bottom: 10px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    li {
-      margin-bottom: 6px;
-    }
-    .meta {
-      font-size: 0.9em;
-      color: #4b5563;
-      margin-bottom: 30px;
-    }
-  </style>
-</head>
 <body>
 
 <h1>Privacy Policy</h1>
